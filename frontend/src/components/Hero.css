@@ -1,0 +1,16 @@
+.hero {
+    background: linear-gradient(135deg, #16a34a, #15803d);
+}
+.hero h1 {
+  font-size: 42px;
+  color: #f2f2f2;
+  margin-bottom: 15px;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #dddddd;
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.6;
+}
