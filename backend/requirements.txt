@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 streamlit
 joblib
+Flask
+flask-cors
+gunicorn
