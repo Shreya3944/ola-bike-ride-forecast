@@ -7,7 +7,7 @@
 Predict bike ride demand using Machine Learning, Flask API and React.
 
 </p>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
